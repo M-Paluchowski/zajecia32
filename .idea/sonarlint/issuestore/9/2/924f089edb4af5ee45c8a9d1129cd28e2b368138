@@ -1,0 +1,17 @@
+
+Ysquid:UnusedPrivateMethodT"4Remove this unused private "changeReference" method.(êŒì”
+1squid:S1220""Move this file to a named package.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(žƒö‰ÿÿÿÿÿ
+Hsquid:S1612O",Replace this lambda with a method reference.(››Êºýÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô€\
+}squid:S4165V"aRemove this useless assignment; "two" already holds the assigned value along all execution paths.(Ï±›Çùÿÿÿÿ
+\squid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Íž
+Ssquid:S1854V"7Remove this useless assignment to local variable "two".(Ï±›Çùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î¸ãÊ
+gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ÅÚÅÂùÿÿÿÿ
+\squid:S1226U"@Introduce a new variable instead of reusing the parameter "one".(þ½Æ›ùÿÿÿÿ
+bsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¯åÛ‘
+Hsquid:S1612P",Replace this lambda with a method reference.(îÝ¯ÿûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç‰˜°
